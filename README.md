@@ -26,7 +26,8 @@ TAKING ATTENDANCE:
 ![Screenshot 2024-12-06 201454](https://github.com/user-attachments/assets/85f09465-75dd-4810-ba73-72627d8fcce7)
 
 STUDENT DETAILS:
-![Screenshot 2024-12-06 203141](https://github.com/user-attachments/assets/036ea178-50a8-4972-a614-5df47bbe06d5)
+![Screenshot 2024-12-07 011002](https://github.com/user-attachments/assets/65673d35-6af5-422b-82e8-52c8fa5d6d19)
+
 
 
 
