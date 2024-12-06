@@ -19,7 +19,16 @@ FEATURES:
 MAIN SCREEN:
 !![Screenshot 2024-12-02 170428](https://github.com/user-attachments/assets/a9e8ffd7-a9f3-4f57-adc3-4a13422b90ed)
 
+ENTER PASSWORD:
+![Screenshot 2024-12-02 170428](https://github.com/user-attachments/assets/b59bc488-6d39-4187-8c7d-2ccef2a6b8de)
 
 TAKING ATTENDANCE:
-![Screenshot 2024-12-02 172345](https://github.com/user-attachments/assets/7da9d06a-f64a-4e40-9e68-566c564e0be0)
+![Screenshot 2024-12-06 201454](https://github.com/user-attachments/assets/85f09465-75dd-4810-ba73-72627d8fcce7)
+
+STUDENT DETAILS:
+![Screenshot 2024-12-06 203141](https://github.com/user-attachments/assets/036ea178-50a8-4972-a614-5df47bbe06d5)
+
+
+
+
 
