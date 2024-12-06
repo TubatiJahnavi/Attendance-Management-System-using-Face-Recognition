@@ -17,10 +17,10 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-!![Screenshot 2024-12-02 170428](https://github.com/user-attachments/assets/a9e8ffd7-a9f3-4f57-adc3-4a13422b90ed)
+![Screenshot 2024-12-02 165550](https://github.com/user-attachments/assets/5f55b4ed-c131-415c-8310-a9b7ee1aa543)
 
 ENTER PASSWORD:
-![Screenshot 2024-12-02 170428](https://github.com/user-attachments/assets/b59bc488-6d39-4187-8c7d-2ccef2a6b8de)
+![Screenshot 2024-12-06 200903](https://github.com/user-attachments/assets/ea58797b-79c0-4a2d-9226-0e65fbd92177)
 
 TAKING ATTENDANCE:
 ![Screenshot 2024-12-06 201454](https://github.com/user-attachments/assets/85f09465-75dd-4810-ba73-72627d8fcce7)
